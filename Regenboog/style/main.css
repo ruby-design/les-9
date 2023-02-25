@@ -1,0 +1,126 @@
+header{
+    height: 150px;
+    background-color: red;
+    background-image:
+      linear-gradient(
+        to right, red, orange, yellow, green, blue, indigo, violet
+      );
+      text-align: center;
+      color: white;
+      font-size: 30px;
+      font-weight: bold;
+  }
+footer{
+    height: 150px;
+    background-color: red;
+    background-image:
+      linear-gradient(
+        to right, red, orange, yellow, green, blue, indigo, violet
+      );
+      text-align: center;
+      color: white;
+      font-weight: bold;
+}
+h2{
+    color: white;
+    background-color: green;
+}
+p{
+  text-align: justify;
+}
+a{
+  font-weight: bold;
+}
+a:link{
+  color: green;
+}
+a:visited{
+  color: black;
+}
+a:hover{
+  color: red;
+}
+a:active{
+  color: blue;
+}
+table{
+  border: 2px solid black;
+  padding: 0.2em;
+  color: white;
+  background-color: lightgray;
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+}
+td{
+  border: 1px solid black;
+  padding: 0.1em;
+  height: 250px;
+  width: 250px;
+}
+#cel1{
+  background-color: #593a3d;
+}
+#cel2{
+  background-color: #985d42;
+}
+#cel3{
+  background-color: #344863;
+}
+#cel4{
+  background-color: #938399;
+}
+#cel5{
+  background-color: #3d3736;
+}
+#cel6{
+  background-color: #d5b794;
+}
+#cel7{
+  background-color: #0877b8;
+}
+#cel8{
+  background-color: #62a5d1;
+}
+#cel9{
+  background-color: #095405;
+}
+#cel10{
+  background-color: #2b750b;
+}
+#cel11{
+  background-color: #b35c03;
+}
+#cel12{
+  background-color: #f78f04;
+}
+#cel13{
+  background-color: #5083b4;
+}
+#cel14{
+  background-color: #99aec6;
+}
+#cel15{
+  background-color: #36333b;
+}
+#cel16{
+  background-color: #76747f;
+}
+img{
+  width: 220px;
+  height: 220px;
+}
+.bron{
+  font-style: italic;
+}
+.mail{
+  color: white;
+}
+#topknop{
+  font-weight: bold;
+}
+a#mail:link{
+  color: white;
+}
